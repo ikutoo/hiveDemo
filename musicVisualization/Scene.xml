@@ -1,0 +1,9 @@
+<MODEL> bunny
+  <MODEL_FILE_NAME> ..\\resource\\model\\bunny.obj </MODEL_FILE_NAME>
+</MODEL>
+
+<WORLD> scene
+  <ENTITY_MODEL> object1
+    <WE_MODEL_REFERENCE> bunny </WE_MODEL_REFERENCE>
+  </ENTITY_MODEL>
+</WORLD>
